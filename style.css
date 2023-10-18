@@ -1,0 +1,10 @@
+.headtext{
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.cardArray{
+    display: flex;
+    gap: 30px;
+}
